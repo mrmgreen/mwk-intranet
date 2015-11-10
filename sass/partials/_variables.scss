@@ -1,0 +1,19 @@
+//font-stacks
+$font-stack: 'Open Sans', sans-serif;
+$heading-stack: 'Josefin Sans', sans-serif;
+//$font-stack: 'Helvetica Neue','Helvetica', Tahoma, Geneva, sans-serif;
+
+//Gradients
+$green-gradient: #61AE24 , #D0D102 50%, #32742C;
+$blue-gradient: #113F8C, #01A4A4 50%, #00A1CB;
+$blue-red-gradient: rgba(30,51,114, 1), rgba(255,0,0,1);
+
+
+//background colours
+$blue: #1E3372;
+$hero-bgcolor: linear-gradient(to bottom, white 62%, #1794ec);
+$notices-bgcolor: #1794ec;
+$discussion-bgcolor: linear-gradient(to right, $green-gradient);
+$mwk-newsletters: linear-gradient(to right, #1e3372, red);
+$fact-bgcolor: #444;
+$dark-grey: #484d6d;;

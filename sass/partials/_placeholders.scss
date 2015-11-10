@@ -1,0 +1,20 @@
+%modules {
+	border: 1px solid #ccc;
+	background: #fff;
+	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.22);
+	overflow: hidden;
+	@include border-radius(6px);
+}
+%box-default {
+	position: relative;
+	width: 100%;
+	border: 1px solid #d2d6d5;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+%usercontact {
+    font-size: 14px;
+    line-height: 1.2em;
+    position: relative;
+}
